@@ -1,4 +1,4 @@
-<h3 align="center">🤗 Hi! my name is Gyucheol! 🤗</h3>
+<h3 align="center">🤗 Hi! my name is Gyucheol Lee! 🤗</h3>
 <p align="center">🤖 I'm Studying Artificial Intelligence and Deep Learning 🤖</p>
 <h3 align="center">🦾 Language 🦾</h3>
 <p align="center">
