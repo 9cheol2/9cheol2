@@ -11,3 +11,15 @@
 - **Interest Areas:** 
   - ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=Computer-Vision&logoColor=white)
   - ![Natural Language Processing](https://img.shields.io/badge/Natural_Language_Processing-8A51B5?style=for-the-badge&logo=Natural-Language-Processing&logoColor=white)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
