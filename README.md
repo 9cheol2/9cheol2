@@ -1,4 +1,7 @@
-## Stack
+<div style="display: flex; justify-content: center;">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Hi!%20I'm%20Gyucheol&fontSize=90" alt="header">
+</div>
+
 
 - **Name:** Gyucheol Lee
 - **Undergraduate:** Graduated from Myongji University with a degree in Mathematics
