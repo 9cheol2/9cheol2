@@ -2,16 +2,20 @@
 <p align="center">🤖 Studying Artificial Intelligence & Deep Learning 🤖</p>
 <h3 align="center">🦾 Language 🦾</h3>
 <p align="center">
-  <span style="background-color: #3776AB; color: #FFFFFF; padding: 5px 10px; border-radius: 4px;">Python</span>&nbsp;
+  <!-- Python Badge -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
 </p>
 <h3 align="center">🦿 Framework 🦿</h3>
 <p align="center">
-  <span style="background-color: #EE4C2C; color: #FFFFFF; padding: 5px 10px; border-radius: 4px;">PyTorch</span>&nbsp;
-  <span style="background-color: #FF6F00; color: #FFFFFF; padding: 5px 10px; border-radius: 4px;">Hugging Face</span>&nbsp;
+  <!-- PyTorch Badge -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch Badge" />&nbsp;
+  <!-- Hugging Face Badge -->
+  <img src="https://img.shields.io/badge/Hugging%20Face-FF6F00?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face Badge" />
 </p>
 <h3 align="center">🔍 Interest Area 🔍</h3>
 <p align="center">
-  <span style="background-color: #5C3EE8; color: #FFFFFF; padding: 5px 10px; border-radius: 4px;">Computer Vision</span>&nbsp;
-  <span style="background-color: #3D8B37; color: #FFFFFF; padding: 5px 10px; border-radius: 4px;">NLP</span>&nbsp;
+  <!-- Computer Vision Badge -->
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logoColor=white" alt="Computer Vision Badge" />&nbsp;
+  <!-- NLP Badge -->
+  <img src="https://img.shields.io/badge/NLP-3D8B37?style=flat&logoColor=white" alt="NLP Badge" />
 </p>
-
