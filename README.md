@@ -1,4 +1,5 @@
 <h3 align="center">Hi! I'm Gyucheol!</h3>
+<h3 align="center">Artificial Intelligence & Deep Learning</h3>
 <p align="center">Studying artificial intelligence and deep learning.</p>
 <h3 align="center">Language</h3>
 <p align="center">
