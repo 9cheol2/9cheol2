@@ -7,7 +7,6 @@
 <h3 align="center">🦿 Framework 🦿</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch Badge" />&nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-FF6F00?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face Badge" />
 </p>
 <h3 align="center">🔍 Interest Area 🔍</h3>
 <p align="center">
