@@ -1,5 +1,5 @@
-<h3 align="center">🤗 Hi! I'm Gyucheol! 🤗</h3>
-<p align="center">🤖 Studying Artificial Intelligence & Deep Learning 🤖</p>
+<h3 align="center">🤗 Hi! my name is Gyucheol! 🤗</h3>
+<p align="center">🤖 I'm Studying Artificial Intelligence and Deep Learning 🤖</p>
 <h3 align="center">🦾 Language 🦾</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
