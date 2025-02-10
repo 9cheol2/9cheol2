@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, my name is Gyucheol Lee. </h3>
+<h3 align="center"> Hi, my name is Gyu-cheol Lee. </h3>
 <p align="center"> I'm a graduate student studying Data Science. </p>
 <h3 align="center"> Language </h3>
 <p align="center">
