@@ -1,5 +1,5 @@
 <h3 align="center"> Hi, my name is Gyucheol Lee. </h3>
-<p align="center"> I'm Studying Artificial Intelligence.  </p>
+<p align="center"> I'm a graduate student studying Data Science. </p>
 <h3 align="center"> Language </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" />
